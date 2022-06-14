@@ -1,0 +1,11 @@
+C:\Users\huu\source\repos\shutdown timer\bin\Debug\shutdown timer.exe.config
+C:\Users\huu\source\repos\shutdown timer\bin\Debug\shutdown timer.exe
+C:\Users\huu\source\repos\shutdown timer\bin\Debug\shutdown timer.pdb
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown timer.csproj.AssemblyReference.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown_timer.Properties.Resources.resources
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown timer.csproj.GenerateResource.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown timer.csproj.CoreCompileInputs.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown timer.exe
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown timer.pdb
+C:\Users\huu\source\repos\shutdown timer\obj\Debug\shutdown_timer.Timer.resources

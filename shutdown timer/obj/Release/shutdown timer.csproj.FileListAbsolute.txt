@@ -1,0 +1,15 @@
+C:\Users\huu\source\repos\shutdown timer\bin\Release\shutdown timer.exe.config
+C:\Users\huu\source\repos\shutdown timer\bin\Release\shutdown timer.exe
+C:\Users\huu\source\repos\shutdown timer\bin\Release\shutdown timer.pdb
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.csproj.AssemblyReference.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown_timer.Timer.resources
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown_timer.Properties.Resources.resources
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.csproj.GenerateResource.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.csproj.CoreCompileInputs.cache
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.exe
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.pdb
+C:\Users\huu\source\repos\shutdown timer\bin\Release\shutdown timer.exe.manifest
+C:\Users\huu\source\repos\shutdown timer\bin\Release\shutdown timer.application
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.exe.manifest
+C:\Users\huu\source\repos\shutdown timer\obj\Release\shutdown timer.application
